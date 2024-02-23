@@ -24,7 +24,7 @@
 <a href="https://twitter.com/saha_sourya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saha_sourya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sourya-saha-537196186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sourya-saha-537196186/" height="30" width="40" /></a>
 <a href="https://instagram.com/sourya.saha1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourya.saha1234" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/souryasaha3163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="souryasaha3163" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@souryasaha3163" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="souryasaha3163" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/souryasaha21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="souryasaha21" height="30" width="40" /></a>
 </p>
 
