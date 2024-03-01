@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://souryasaha1234.github.io/portfolio/](https://souryasaha1234.github.io/portfolio/)
 
-- 💬 Ask me about **JavaSE Servlet**
+- 💬 Ask me about **JavaSE, Servlet**
 
 - 📫 How to reach me **souryasaha28@gmail.com**
 
