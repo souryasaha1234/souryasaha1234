@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/saha_sourya" target="blank"><img src="https://img.shields.io/twitter/follow/saha_sourya?logo=twitter&style=for-the-badge" alt="saha_sourya" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, Spring Framework**
+- 🌱 I’m currently learning **Angular, Spring Boot Framework**
 
 - 👨‍💻 All of my projects are available at [https://souryasaha1234.github.io/portfolio/](https://souryasaha1234.github.io/portfolio/)
 
